@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to data visualization or AI applications. If you have an interesting idea, let's connect!
 
-📫 How to reach me: You can connect with me on [LinkedIn](ใส่ลิงก์ LinkedIn ของคุณที่นี่) or drop me an email at [ใส่ที่อยู่อีเมลของคุณที่นี่].
+📫 How to reach me: You can connect with me on [LinkedIn] or drop me an email at zerryboy28@gmail.com.
 
 😄 Pronouns: He/Him
 
