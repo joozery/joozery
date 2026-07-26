@@ -1,145 +1,117 @@
-<h1 align="center">
-  Hi 👋, I'm Joo Zery
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • UI/UX Designer • AI Enthusiast
-</h3>
+# 👋 Hi, I'm Joo Zery
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;UI%2FUX+Designer;AI+Explorer;Building+Awesome+Experiences" />
-</p>
+### Full Stack Developer · System Administrator · AI Automation Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+Node.js+%2B+TypeScript;Server+%26+Infra+Management;Building+AI-Powered+Automation" alt="Typing SVG" />
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/-zerryboy28%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zerryboy28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/-@joozery-181717?style=flat&logo=github&logoColor=white)](https://github.com/joozery)
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
 ```yaml
-Name: Joo Zery
-Location: Thailand 🇹🇭
-Company: WOO YOU Creative
-Role: Full Stack Developer
-Focus:
-  - Next.js
-  - React
-  - Node.js
+name: Joo Zery
+location: Thailand 🇹🇭
+company: WOO YOU Creative
+role: Full Stack Developer & System Administrator
+focus:
+  - Next.js / React / Node.js
+  - Server & VPS Infrastructure (Nginx, PM2, Cloudflare)
   - Golang
-  - AI
+  - AI Automation (UiPath, RPA, LLM tooling)
+currently_exploring:
+  - AI Engineering & RAG
+  - Machine Learning
+  - Three.js
+  - AWS Cloud
 ```
 
----
+<br/>
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,go,mongodb,mysql,postgres,docker,aws,nginx,git,github,figma,vscode,tailwind&theme=dark" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,mongodb,mysql,postgres,docker,aws,figma,git,github,vscode,tailwind,go" />
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- AI Engineering
-- Machine Learning
-- AWS Cloud
-- Golang
-- Three.js
-- RAG AI
-
----
+<br/>
 
 ## 🔥 Featured Projects
 
-🚀 WooYou Creative
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Modern Agency Website
+**🚀 WooYou Creative**
+Modern agency website
+`Next.js` `MongoDB`
 
-Next.js + MongoDB
+</td>
+<td width="33%" valign="top">
 
----
+**🎨 JoyPop**
+Interactive landing page
+`Three.js` `GSAP`
 
-🎨 JoyPop
+</td>
+<td width="33%" valign="top">
 
-Interactive Landing Page
+**🤖 AI Automation**
+RPA bot with UiPath + AI
+`UiPath` `Google Workspace`
 
-Three.js + GSAP
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-🤖 AI Automation
+## 📊 GitHub Stats
 
-AI + UiPath + Google Workspace
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=joozery&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joozery&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
----
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=joozery&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
 
-## 📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joozery&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
 
-<p align="center">
+<br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=joozery&show_icons=true&theme=tokyonight"/>
+## 🏆 Trophies
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joozery&layout=compact&theme=tokyonight"/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=joozery&theme=tokyonight&margin-w=10&no-frame=true&row=1" />
+</div>
 
-</p>
+<br/>
 
----
+<div align="center">
 
-## ⚡ GitHub Streak
+### 🌐 Let's Connect
 
-<p align="center">
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zerryboy28@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/joozery)
 
-<img src="https://streak-stats.demolab.com?user=joozery&theme=tokyonight"/>
+<br/>
 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=joozery&color=38BDF8&style=flat&label=Profile+Views)
 
----
+⭐ **Thanks for stopping by!** ⭐
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joozery&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
-## 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joozery&theme=tokyo-night"/>
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-
-<a href="mailto:zerryboy28@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/joozery">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-## 👀 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=joozery&color=blue"/>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</p>
+</div>
